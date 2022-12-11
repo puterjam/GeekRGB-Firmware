@@ -18,22 +18,22 @@
 1. 下载 QMK MSYS https://msys.qmk.fm/
 
 2. 启动 QMK MSYS，在命令行中创建一个目录。输入命令 
-```
+```Bash
 mkdir geekRGB
 ```
 
 3. 进入目录。输入命令
- ```
+ ```Bash
 cd geekRGB
 ```
 
 4. 克隆GeekRGB源码 
-```
+```Bash
 git clone https://github.com/puterjam/qmk_firmware.git
 ```
 
 5. 进入 qmk_firmare 目录，准备qmk的编译环境
- ```
+ ```Bash
  cd qmk_firmware
  make git-submodule
  ```
@@ -48,11 +48,13 @@ OPENRGB_ENABLE = yes
 SIGNALRGB_SUPPORT_ENABLE = yes
 ```
 9. 编译键盘固件
-```
+```Bash
 make KEYBOARDBRAND/KEYBOARD:KEYMAP
 ```
+### 2. GeekRGB-Firmware 固件源码
+https://github.com/puterjam/qmk_firmware
 
-## Geek RGB Firmware 更新历史
+## GeekRGB Firmware 更新历史
 ### v2.1(preview)
 * 增加 HIDRGB USB 协议，彻底解决VIA 和 软件灯效冲突的问题 （重要更新）
 * 优化 OpenRGB 设置灯效的兼容性
