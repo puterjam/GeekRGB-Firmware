@@ -12,9 +12,11 @@
 
 在 [firmware](firmware) 目录中找到对于键盘固件下载
 
-> 也欢迎有动手能力的小伙伴，可以分享您编译好的固件
-
 ### 2. 编译 GeekRGB 固件
+```diff
+- 刷固件过程，请勿断开USB线。因人为操作失误等，请自行承担
+```
+
 1. 下载 QMK MSYS https://msys.qmk.fm/
 
 2. 启动 QMK MSYS，在命令行中创建一个目录。输入命令 
@@ -51,6 +53,11 @@ SIGNALRGB_SUPPORT_ENABLE = yes
 ```Bash
 make KEYBOARDBRAND/KEYBOARD:KEYMAP
 ```
+
+```diff
++ 最后，欢迎有动手能力的小伙伴，可以分享您编译好的固件
+```
+
 ### 2. GeekRGB-Firmware 固件源码
 https://github.com/puterjam/qmk_firmware
 
