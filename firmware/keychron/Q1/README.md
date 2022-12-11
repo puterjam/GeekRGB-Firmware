@@ -8,9 +8,10 @@
 * 支持 mac 和 windows 键层切换
 * 支持旋钮版本和非旋钮的ANSI版本（不支持ATmega32版本键盘）
 
-旋钮版本固件: keychron_q1_q1_ansi_stm32l432_ec11_via.bin
+## 固件文件
+旋钮版本固件: [keychron_q1_q1_ansi_stm32l432_ec11_via.bin](keychron_q1_q1_ansi_stm32l432_ec11_via.bin)
 
-非旋钮版本: keychron_q1_q1_ansi_stm32l432_via.bin
+非旋钮版本: [keychron_q1_q1_ansi_stm32l432_via.bin](keychron_q1_q1_ansi_stm32l432_via.bin)
 
 ## 刷固件
 ### 1. 安装固件工具
@@ -28,7 +29,7 @@
 
 
 ### 3. 刷写固件
-下载固件文件 melgeek_tegic_rev2_via.hex，拖拽到 qmk toolbox 的输入框, 点击 Flash 即可
+下载固件文件，拖拽到 qmk toolbox 的输入框, 点击 Flash 即可
 
 
 # openRGB 使用

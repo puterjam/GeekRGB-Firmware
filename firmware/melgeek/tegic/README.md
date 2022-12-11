@@ -9,6 +9,8 @@
 * 还原官方默认内置灯效
 * 还原官方出厂按键配置
 
+## 固件文件
+[melgeek_tegic_rev2_via.hex](melgeek_tegic_rev2_via.hex)
 
 ## 刷固件
 ### 1. 安装固件工具
@@ -24,7 +26,7 @@
 
 
 ### 3. 刷写固件
-下载固件文件 melgeek_tegic_rev2_via.hex，拖拽到 qmk toolbox 的输入框, 点击 Flash 即可
+下载固件文件，拖拽到 qmk toolbox 的输入框, 点击 Flash 即可
 
 
 # openRGB 使用
