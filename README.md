@@ -1,20 +1,20 @@
 # GeekRGB Firmware
 
-让你的QMK客制化键盘，获得丰富的RGB灯效能力，成为更好的游戏键盘
+让QMK客制化键盘，在游戏场景上，给游戏玩家获得更好的沉浸灯效联动体验
 
 > For Gamer，Become Geeker
+
+固件基于QMK官方源码进行了二次开发
 
 ## 如何让自己的键盘使用 GeekRGB 固件
 
 ### 1. 使用已支持的键盘固件（推荐）
-发布已经内置了GeekRGB的键盘固件
-
-目前支持的键盘列表
+目前支持GeekRGB的键盘列表
 
 * [keyChron Q1](firmware/keychron/Q1/)
 * [Tegic 框架主义](firmware/melgeek/tegic/)
 
-在 [firmware](firmware) 目录中找到对于键盘固件下载
+在 [firmware](firmware) 目录中，找到对应的键盘固件下载
 
 ### 2. 编译 GeekRGB 固件，支持新键盘
 ```diff
