@@ -7,8 +7,8 @@
 
 目前支持的键盘列表
 
-* keyChron Q1
-* Tegic 框架主义
+* [keyChron Q1](firmware/keychron/Q1/)
+* [Tegic 框架主义](firmware/melgeek/tegic/)
 
 在 [firmware](firmware) 目录中找到对于键盘固件下载
 
