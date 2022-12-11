@@ -14,7 +14,7 @@
 * [keyChron Q1](firmware/keychron/Q1/)
 * [Tegic 框架主义](firmware/melgeek/tegic/)
 
-在 [firmware](firmware) 目录中，找到对应的键盘固件下载
+在 [keyboards](keyboards) 目录中，找到对应的键盘固件下载
 
 ### 2. 编译 GeekRGB 固件，支持新键盘
 ```diff
