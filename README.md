@@ -1,4 +1,8 @@
-# GeekRGB-Firmware
+# GeekRGB Firmware
+
+让你的QMK客制化键盘，获得丰富的RGB灯效能力，成为更好的游戏键盘
+
+> For Gamer，Become Geeker
 
 ## 如何让自己的键盘使用 GeekRGB 固件
 
@@ -58,7 +62,7 @@ make KEYBOARDBRAND/KEYBOARD:KEYMAP
 + 最后，欢迎有动手能力的小伙伴，可以分享您编译好的固件
 ```
 
-### 3. GeekRGB-Firmware 固件源码
+### 3. GeekRGB Firmware 固件源码
 https://github.com/puterjam/qmk_firmware
 
 ### 4. GeekRGB Firmware 更新历史
