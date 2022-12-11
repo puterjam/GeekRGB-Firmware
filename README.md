@@ -73,4 +73,4 @@ https://github.com/puterjam/qmk_firmware
 * v1.1 本固件第一个版本，支持 via + SignalRGB —— 来自装备前线
 
 ## 开源
-最后感谢，[QMK](https://qmk.fm/zh-cn/)，[OpenRGB](https://github.com/Kasper24/QMK-OpenRGB)，[VIA](https://github.com/the-via)，[SignalRGB](https://gitlab.com/signalrgb/qmk_firmware)，[Zhaqian](https://github.com/zhaqian12) 等众多开源项目，与贡献者
+最后感谢，[QMK](https://qmk.fm/zh-cn/)，[OpenRGB](https://gitlab.com/CalcProgrammer1/OpenRGB)，[QMK-OpenRGB](https://github.com/Kasper24/QMK-OpenRGB)，[VIA](https://github.com/the-via)，[SignalRGB](https://gitlab.com/signalrgb/qmk_firmware)，[Zhaqian](https://github.com/zhaqian12) 等众多开源项目，与贡献者
