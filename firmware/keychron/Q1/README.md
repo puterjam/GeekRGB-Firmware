@@ -7,6 +7,7 @@
 * 更新部分内置灯效
 * 支持 mac 和 windows 键层切换
 * 支持旋钮版本和非旋钮的ANSI版本（不支持ATmega32版本键盘）
+* 仅支持 OpenRGB
 
 ## 固件文件
 旋钮版本固件: [keychron_q1_q1_ansi_stm32l432_ec11_via.bin](keychron_q1_q1_ansi_stm32l432_ec11_via.bin)
