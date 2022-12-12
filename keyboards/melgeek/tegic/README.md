@@ -8,6 +8,7 @@
 * 更新 SignalRGB 插件
 * 还原官方默认内置灯效
 * 还原官方出厂按键配置
+* 更新VIA的配置文件
 
 ## 固件文件
 [melgeek_tegic_rev2_via.hex](melgeek_tegic_rev2_via.hex)
@@ -28,9 +29,10 @@
 ### 3. 刷写固件
 下载固件文件，拖拽到 qmk toolbox 的输入框, 点击 Flash 即可
 
-
 # openRGB 使用
-## 1. 下载 GeekRGB 兼容的 OpenRGB
+## 1. 下载 GeekRGB 兼容的 OpenRGB 软件
+[下载地址](https://github.com/puterjam/GeekRGB-Firmware/tree/main/software)
+
 
 ## 2. 添加键盘
 第一次使用，需要在OpenRGB软件中添加键盘
