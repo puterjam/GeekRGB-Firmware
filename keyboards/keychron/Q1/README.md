@@ -2,7 +2,8 @@
 
 ![Q1](https://i.imgur.com/syr9jmw.jpeg)
 
-# 固件特性（更新时间：2022-12-11）
+# 固件特性（更新时间：2022-12-15）
+* 更新 signalRGB 插件
 * 更新 GeekRGB v2.1
 * 更新部分内置灯效
 * 支持 mac 和 windows 键层切换

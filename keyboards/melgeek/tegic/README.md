@@ -2,16 +2,17 @@
 
 ![Tegic](https://i.imgur.com/qhNb7zi.png)
 
-# 固件特性（更新时间：2022-12-11）
+# 固件特性（更新时间：2022-12-15）
 * 更新 GeekRGB v2.1，完美解决 VIA 和 软件灯效冲突的问题
 * 解决 OpenRGB 和 SignalRGB 的冲突
 * 更新 SignalRGB 插件
 * 还原官方默认内置灯效
 * 还原官方出厂按键配置
 * 更新VIA的配置文件
+* 修复 待机状态没有关闭rgb的问题
 
 ## 固件文件
-[melgeek_tegic_rev2_via.hex](melgeek_tegic_rev2_via.hex)
+[melgeek_tegic_rev1_via_2.1.hex](melgeek_tegic_rev1_via_2.1.hex)
 
 ## 刷固件
 ### 1. 安装固件工具
