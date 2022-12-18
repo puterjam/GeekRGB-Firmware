@@ -6,19 +6,29 @@
     "extends": "qmk_rgblight",
     "underglowEffects": [
       ["None", 0],
-      ["SOLID_COLOR", 1],
-      ["BREATHING", 1],
-      ["CYCLE_ALL", 1],
-      ["CYCLE_LEFT_RIGHT", 1],
-      ["CYCLE_UP_DOWN", 1],
-      ["RAINBOW_MOVING_CHEVRON", 1],
-      ["CYCLE_OUT_IN", 1],
-      ["CYCLE_OUT_IN_DUAL", 1],
-      ["CYCLE_PINWHEEL", 1],
-      ["CYCKE_SPIRAL", 1],
-      ["DUAL_BEACON", 1],
-      ["RAINBOW_BEACON", 1],
-      ["RAINDROPS", 1]
+      ["Solid", 1],
+      ["Breathing", 1],
+      ["Band Spiral Value", 1],
+      ["Cycle All", 1],
+      ["Cycle Left Right", 1],
+      ["Cycle Up Down", 1],
+      ["Rainbow Moving Chevron", 1],
+      ["Cycle Out In", 1],
+      ["Cycle Out In Dual", 1],
+      ["Cycle Pinwheel", 1],
+      ["Cycle Spiral", 1],
+      ["Dual Beacon", 1],
+      ["Rainbow Beacon", 1],
+      ["Jellybean Raindrops", 1],
+      ["Typing Heatmap", 1],
+      ["Digital Rain", 1],
+      ["Solid Reactive Simple", 1],
+      ["Solid Reactive Multi Wide", 1],
+      ["Solid Reactive Multi Nexus", 1],
+      ["Rainbow Reactive Splash", 1],
+      ["Solid Reactive Splash", 1],
+      ["Pixel Rain", 1],
+      ["GeekRGB", 1]
     ]
   },
   "matrix": {"rows": 6, "cols": 16},
@@ -67,24 +77,16 @@
         },
         "0,13",
         {
-          "x": 0.25,
-          "w": 0.75
+          "x": 0.25
         },
-        "0,15",
+        "0,15\n\n\ne0",
         {
           "h": 0.5
-        },
-        "5,7",
-        {
-          "x": -1,
-          "y": 0.5,
-          "h": 0.5
-        },
-        "5,8"
+        }
       ],
       [
         {
-          "y": -0.25
+          "y": 0.25
         },
         "1,0",
         {
