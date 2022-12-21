@@ -13,6 +13,7 @@
 
 ## 固件文件
 [melgeek_tegic_rev1_via_2.1.hex](https://raw.githubusercontent.com/puterjam/GeekRGB-Firmware/main/keyboards/melgeek/tegic/melgeek_tegic_rev1_via_2.1.hex)
+（可右键保存链接）
 
 ## 刷固件
 ### 1. 安装固件工具
