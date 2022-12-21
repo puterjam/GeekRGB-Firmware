@@ -1,7 +1,7 @@
 # GeekRGB-Firmware 相关配套灯效和配置软件
 
-## OpenRGB 
-* [下载](OpenRGB.zip) 已支持GeekRGB的版本
+## OpenRGB (推荐)
+* [下载](OpenRGB.zip) 已支持GeekRGB的版本，可作为Aurora 和 artemis后台服务
 * [OpenRGB 使用说明](openRGB.md) 
 
 ## Aurora (推荐)
@@ -26,3 +26,5 @@
 
 ## VIA键位设置
 https://www.caniusevia.com/
+
+已支持的键盘，可用优化过的键盘JSON文件
