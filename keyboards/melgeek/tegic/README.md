@@ -12,7 +12,7 @@
 * 修复 待机状态没有关闭rgb的问题
 
 ## 固件文件
-[melgeek_tegic_rev1_via_2.1.hex](melgeek_tegic_rev1_via_2.1.hex)
+[melgeek_tegic_rev1_via_2.1.hex](https://raw.githubusercontent.com/puterjam/GeekRGB-Firmware/main/keyboards/melgeek/tegic/melgeek_tegic_rev1_via_2.1.hex)
 
 ## 刷固件
 ### 1. 安装固件工具
