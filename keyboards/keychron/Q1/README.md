@@ -18,9 +18,9 @@
 * 仅支持 OpenRGB
 
 ## 固件文件
-旋钮版本固件: [keychron_q1_q1_ansi_stm32l432_ec11_geekrgb.bin](./keychron_q1_q1_ansi_stm32l432_ec11_geekrgb.bin)
+旋钮版本固件: [keychron_q1_q1_ansi_stm32l432_ec11_geekrgb.bin](https://github.com/puterjam/GeekRGB-Firmware/raw/main/keyboards/keychron/Q1/keychron_q1_q1_ansi_stm32l432_ec11_geekrgb.bin)
 
-非旋钮版本: [keychron_q1_q1_ansi_stm32l432_geekrgb.bin](./keychron_q1_q1_ansi_stm32l432_geekrgb.bin)
+非旋钮版本: [keychron_q1_q1_ansi_stm32l432_geekrgb.bin](https://github.com/puterjam/GeekRGB-Firmware/raw/main/keyboards/keychron/Q1/keychron_q1_q1_ansi_stm32l432_geekrgb.bin)
 
 ## 刷固件
 ### 1. 安装固件工具
