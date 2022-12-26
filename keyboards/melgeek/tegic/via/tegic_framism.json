@@ -1,5 +1,5 @@
 {
-  "name": "Tegic Framism Rev2",
+  "name": "Tegic Framism Rev1",
   "vendorId": "0xEDED",
   "productId": "0x0081",
   "lighting": {
@@ -14,7 +14,6 @@
         ["Cycle Top to Bottom", 1],
         ["Rainbow Moving Chevron", 1],
         ["Cycle Out In", 1],
-        ["Cycle Out In Dual", 1],
         ["Cycle Pinwheel", 1],
         ["Cycle Spiral", 1],
         ["Dual Beancon", 1],
@@ -25,7 +24,6 @@
         ["Reactive Multi-nexus", 1],
         ["Rainbow Splash", 1],
         ["Solid Splash", 1],
-        ["Pixel Rain", 1],
         ["GeekRGB", 1]
     ],
     "keycodes": "qmk"
@@ -34,6 +32,11 @@
     "rows": 6,
     "cols": 15
   },
+  "customKeycodes": [
+    {"name": "GeekRGB Mode", "title": "Switch GeekRGB Mode", "shortName": "GeekRGB Mode"},
+    {"name": "Mission Control", "title": "Mission Control in macOS", "shortName": "Mission Control"},
+    {"name": "Launch Pad", "title": "Launch Pad in macOS", "shortName": "Launch Pad"}
+  ],
   "layouts": {
     "keymap": [
       [

@@ -1,8 +1,13 @@
 # GeekRGB-Firmware for Tegic 
 
 ![Tegic](https://i.imgur.com/qhNb7zi.png)
-
-# 固件特性（更新时间：2022-12-15）
+# 固件更新 2022-12-26
+* 增加对mac系统部分快捷键支持
+* 增加Geek RGB内核成 2.1.1，支持，启动特效
+* 添加键盘15分钟后自动关闭灯效
+* 添加一键切换 Geek RGB 自定义按键，FN+Tab
+ 
+# 固件更新 2022-12-15
 * 更新 GeekRGB v2.1，完美解决 VIA 和 软件灯效冲突的问题
 * 解决 OpenRGB 和 SignalRGB 的冲突
 * 更新 SignalRGB 插件
@@ -12,7 +17,7 @@
 * 修复 待机状态没有关闭rgb的问题
 
 ## 固件文件
-[melgeek_tegic_rev1_via_2.1.hex](https://raw.githubusercontent.com/puterjam/GeekRGB-Firmware/main/keyboards/melgeek/tegic/melgeek_tegic_rev1_via_2.1.hex)
+[melgeek_tegic_rev1_geekrgb.hex](./melgeek_tegic_rev1_geekrgb.hex)
 （可右键保存链接）
 
 ## 刷固件
