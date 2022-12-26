@@ -1,6 +1,3 @@
-# GeekRGB-Firmware for Tegic 
-
-![Tegic](https://i.imgur.com/qhNb7zi.png)
 # 固件更新 2022-12-26
 * 增加对mac系统部分快捷键支持
 * 增加Geek RGB内核成 2.1.1，支持，启动特效
@@ -21,8 +18,7 @@
 （可右键保存链接）
 
 ## 刷固件
-### 1. 安装固件工具
-下载 QMK 键盘刷固件工具 qmk_toolbox
+### 1载 QMK 键盘刷固件工具 qmk_toolbox
 
 下载地址：https://github.com/qmk/qmk_toolbox/releases
 
