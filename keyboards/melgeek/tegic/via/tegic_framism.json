@@ -24,7 +24,7 @@
         ["Reactive Multi-nexus", 1],
         ["Rainbow Splash", 1],
         ["Solid Splash", 1],
-        ["GeekRGB", 1]
+        ["Geek RGB", 1]
     ],
     "keycodes": "qmk"
   },
