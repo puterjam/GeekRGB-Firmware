@@ -67,6 +67,9 @@ make KEYBOARDBRAND/KEYBOARD:KEYMAP
 https://github.com/puterjam/qmk_firmware
 
 ### 4. GeekRGB Firmware 更新历史
+#### v2.1.1
+* GeekRGB特效支持键盘开机动画
+
 #### v2.1(preview)
 * 增加 HIDRGB USB 协议，彻底解决VIA 和 软件灯效冲突的问题 （重要更新）
 * 优化 OpenRGB 设置灯效的兼容性
