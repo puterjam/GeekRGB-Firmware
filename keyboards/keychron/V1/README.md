@@ -2,20 +2,11 @@
 
 ![Q1](https://i.imgur.com/syr9jmw.jpeg)
 
-# 固件更新 2022-12-26
-* 增加对mac系统部分快捷键支持
-* 增加Geek RGB内核成 2.1.1，支持，启动特效
-* 添加键盘15分钟后自动关闭灯效
-* 添加一键切换 Geek RGB 自定义按键，FN+Mute (非旋钮版本，可以在VIA改建)
-* 旋钮版本，优化VIA配置
+# 固件更新 2022-12-29
+* 更新 signalRGB 的 V1 插件
+* 更新 VIA 的配置文件
+* 固件更新，固件与Q1相同
 
-# 固件特性（更新时间：2022-12-15）
-* 更新 signalRGB 插件
-* 更新 GeekRGB v2.1
-* 更新部分内置灯效
-* 支持 mac 和 windows 键层切换
-* 支持旋钮版本和非旋钮的ANSI版本（不支持ATmega32版本键盘）
-* 仅支持 OpenRGB
 
 ## 固件文件
 旋钮版本固件: [keychron_v1_ansi_stm32l432_ec11_geekrgb.bin](https://github.com/puterjam/GeekRGB-Firmware/raw/main/keyboards/keychron/V1/keychron_v1_ansi_stm32l432_ec11_geekrgb.bin)
