@@ -11,6 +11,7 @@
 ### 1. 使用已支持的键盘固件（推荐）
 目前支持GeekRGB的键盘列表
 
+* [keyChron V1](keyboards/keychron/V1/) 固件与Q1相同，更新了via和signalRGB的配置
 * [keyChron Q1](keyboards/keychron/Q1/)
 * [Tegic 框架主义](keyboards/melgeek/tegic/)
 
