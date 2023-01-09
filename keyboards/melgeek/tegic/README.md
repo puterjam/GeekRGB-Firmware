@@ -1,3 +1,11 @@
+# GeekRGB-Firmware for Tegic 
+
+![Tegic](https://i.imgur.com/qhNb7zi.png)
+
+# 固件更新 2023-1-9
+* 修复mac gui默认键位
+* 启动动画更加平滑一些
+
 # 固件更新 2022-12-26
 * 增加对mac系统部分快捷键支持
 * 增加Geek RGB内核成 2.1.1，支持，启动特效
