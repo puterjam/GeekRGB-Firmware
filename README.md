@@ -11,7 +11,7 @@
 ### 1. 使用已支持的键盘固件（推荐）
 目前支持GeekRGB的键盘列表
 
-* [keyChron V1](keyboards/keychron/V1/) 固件与Q1相同，更新了via和signalRGB的配置
+* [keyChron V1](keyboards/keychron/V1/) 
 * [keyChron Q1](keyboards/keychron/Q1/)
 * [Tegic 框架主义](keyboards/melgeek/tegic/)
 
@@ -67,6 +67,12 @@ make KEYBOARDBRAND/KEYBOARD:KEYMAP
 https://github.com/puterjam/qmk_firmware
 
 ### 4. GeekRGB Firmware 更新历史
+#### v2.1.1
+* GeekRGB特效支持键盘开机动画
+* 合并 openrgb 和 signalrgb 的动画文件，减少编译体积
+* 优化冗余代码，减少编译体积
+* 支持设置默认RGB灯效颜色
+
 #### v2.1(preview)
 * 增加 HIDRGB USB 协议，彻底解决VIA 和 软件灯效冲突的问题 （重要更新）
 * 优化 OpenRGB 设置灯效的兼容性
