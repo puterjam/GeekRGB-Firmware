@@ -1,5 +1,5 @@
 {
-  "name": "Keychron Q1",
+  "name": "Keychron Q1V2 ANSI Knob",
   "vendorId": "0x3434",
   "productId": "0x0107",
   "lighting": {
@@ -33,9 +33,71 @@
   },
   "matrix": {"rows": 6, "cols": 16},
   "customKeycodes": [
-    {"name": "GeekRGB Mode", "title": "Switch GeekRGB Mode", "shortName": "GeekRGB Mode"},
-    {"name": "Mission Control", "title": "Mission Control in macOS", "shortName": "Mission Control"},
-    {"name": "Launch Pad", "title": "Launch Pad in macOS", "shortName": "Launch Pad"}
+    {
+      "name": "Mission Control",
+      "title": "Mission Control in macOS",
+      "shortName": "MCtrl"
+    },
+    {
+      "name": "Launch Pad",
+      "title": "Launch Pad in macOS",
+      "shortName": "LPad"
+    },
+    {
+      "name": "Left Option",
+      "title": "Left Option in macOS",
+      "shortName": "LOpt"
+    },
+    {
+      "name": "Right Option",
+      "title": "Right Option in macOS",
+      "shortName": "ROpt"
+    },
+    {
+      "name": "Left Cmd",
+      "title": "Left Command in macOS",
+      "shortName": "LCmd"
+    },
+    {
+      "name": "Right Cmd",
+      "title": "Right Command in macOS",
+      "shortName": "RCmd"
+    },
+    {
+      "name": "Siri",
+      "title": "Siri in macOS",
+      "shortName": "Siri"
+    },
+    {
+      "name": "Task View",
+      "title": "Task View in windows",
+      "shortName": "Task"
+    },
+    {
+      "name": "File Explorer",
+      "title": "File Explorer in windows",
+      "shortName": "File"
+    },
+    {
+      "name": "Screen Shot",
+      "title": "Screenshot in macOS",
+      "shortName": "SShot"
+    },
+    {
+      "name": "Cortana",
+      "title": "Cortana in windows",
+      "shortName": "Cortana"
+    },
+    {
+      "name": "Globe Key",
+      "title": "Apple Globe/FN Key",
+      "shortName": "Globe"
+    },
+    {
+      "name": "Geek RGB",
+      "title": "Geek RGB Mode Toggle",
+      "shortName": "GeekRGB"
+    }
   ],
   "layouts": {
     "keymap": [
@@ -53,14 +115,16 @@
         "0,3",
         "0,4",
         {
-          "x": 0.25
+          "x": 0.25,
+          "c": "#aaaaaa"
         },
         "0,5",
         "0,6",
         "0,7",
         "0,8",
         {
-          "x": 0.25
+          "x": 0.25,
+          "c": "#cccccc"
         },
         "0,9",
         "0,10",
@@ -74,19 +138,14 @@
         {
           "x": 0.25
         },
-        "0,15\n\n\ne0",
-        {
-          "h": 0.5
-        }
+        "0,15\n\n\n\n\n\n\n\n\ne0"
       ],
       [
         {
-          "y": 0.25
-        },
-        "1,0",
-        {
+          "y": 0.25,
           "c": "#cccccc"
         },
+        "1,0",
         "1,1",
         "1,2",
         "1,3",
