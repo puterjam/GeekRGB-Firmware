@@ -11,9 +11,9 @@
 ### 1. 使用已支持的键盘固件（推荐）
 目前支持GeekRGB的键盘列表
 
-* [keyChron Q60](keyboards/keychron/Q60/)
-* [keyChron V1](keyboards/keychron/V1/) 
-* [keyChron Q1](keyboards/keychron/Q1/)
+* [Keychron Q60](keyboards/keychron/Q60/)
+* [Keychron V1](keyboards/keychron/V1/) 
+* [Keychron Q1](keyboards/keychron/Q1/)
 * [Tegic 框架主义](keyboards/melgeek/tegic/)
 
 在 [keyboards](keyboards) 目录中，找到对应的键盘固件下载
