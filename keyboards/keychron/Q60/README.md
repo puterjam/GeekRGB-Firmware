@@ -14,8 +14,9 @@
 
 
 ## 固件文件
-Q60 ANSI 版本: [keychron_q60_q60_ansi_stm32l432_geekrgb.bin](https://github.com/puterjam/GeekRGB-Firmware/raw/main/keyboards/keychron/Q6/keychron_q60_q60_ansi_stm32l432_geekrgb.bin)
+Q60 ANSI 版本: [keychron_q60_q60_ansi_stm32l432_geekrgb.bin](https://github.com/puterjam/GeekRGB-Firmware/blob/main/keyboards/keychron/Q60/keychron_q60_q60_ansi_stm32l432_geekrgb.bin)
 
+> [!CAUTION]
 > 注意，不支持 Q60 Max 三模版本
 
 ## 刷固件
