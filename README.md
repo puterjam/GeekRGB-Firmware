@@ -11,6 +11,7 @@
 ### 1. 使用已支持的键盘固件（推荐）
 目前支持GeekRGB的键盘列表
 
+* [keyChron Q60](keyboards/keychron/Q60/)
 * [keyChron V1](keyboards/keychron/V1/) 
 * [keyChron Q1](keyboards/keychron/Q1/)
 * [Tegic 框架主义](keyboards/melgeek/tegic/)
@@ -67,6 +68,9 @@ make KEYBOARDBRAND/KEYBOARD:KEYMAP
 https://github.com/puterjam/qmk_firmware
 
 ### 4. GeekRGB Firmware 更新历史
+#### v2.2
+* 更新 Keychron Q60 固件
+
 #### v2.1.1
 * GeekRGB特效支持键盘开机动画
 * 合并 openrgb 和 signalrgb 的动画文件，减少编译体积
