@@ -64,9 +64,9 @@
       "shortName": "RCmd"
     },
     {
-      "name": "Siri",
-      "title": "Siri in macOS",
-      "shortName": "Siri"
+      "name": "Spotlight",
+      "title": "Spotlight in macOS",
+      "shortName": "Spot"
     },
     {
       "name": "Task View",
@@ -92,6 +92,11 @@
       "name": "Globe Key",
       "title": "Apple Globe/FN Key",
       "shortName": "Globe"
+    },
+    {
+      "name": "Siri",
+      "title": "Siri in macOS",
+      "shortName": "Siri"
     },
     {
       "name": "Geek RGB",
