@@ -1,6 +1,6 @@
 # GeekRGB-Firmware for Keychron Q60 (HHKB like)
 
-![Q60](https://imgur.com/a/edPExGR)
+![Q60](https://i.imgur.com/4Eqjq6z.jpeg)
 
 # 固件更新 2025-11-2
 * 充分利用 6 个Layer 的功能区
